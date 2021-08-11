@@ -80,6 +80,8 @@
   <img src="https://img.shields.io/badge/Language-SQL-CC2927?logo=microsoftsqlserver"/>
   <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Tool-Adobe_XD-FF61F6?logo=adobexd"/>
+  <img src="https://img.shields.io/badge/Tool-Figma-F24E1E?logo=figma"/>
 </p>
 
 ###	:dromedary_camel: Repositories
