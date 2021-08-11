@@ -58,8 +58,8 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=desannemada&show_icons=true&theme=radical" width="400"/>
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&layout=compact&theme=radical" width="400"></img>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=desannemada&show_icons=true&theme=radical&line_height=32" width="400"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&layout=compact&theme=radical" width="400"></img>
       </td>
     </tr>
   </tbody>
