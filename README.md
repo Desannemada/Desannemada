@@ -60,7 +60,7 @@
       <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=desannemada&show_icons=true&theme=radical"/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&layout=compact&theme=radical" height="195"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&theme=radical" height="195"/> 
       </td>
     </tr>
   </tbody>
