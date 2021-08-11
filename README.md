@@ -67,10 +67,16 @@
 
 ### :wolf: About Me
 
-### Repositories
+### :owl: Knowledge
 
 <p>
-  <a href="https://github.com/desannemada/Alchenne" rel="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=radical"></a>
-  <a href="https://github.com/desannemada/WeeBooks_v2" rel="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=radical"></a>
-  <a href="https://github.com/desannemada/PI_Walleties" rel="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=radical"></a>
+  <img src="https://img.shields.io/badge/Framework-Flutter-45D1FD?logo=flutter"/>
+</p>
+
+### :book: Repositories
+
+<p>
+  <a href="https://github.com/desannemada/Alchenne" rel="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
+  <a href="https://github.com/desannemada/WeeBooks_v2" rel="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula"></a>
+  <a href="https://github.com/desannemada/PI_Walleties" rel="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula"></a>
 </p>
