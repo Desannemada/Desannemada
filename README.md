@@ -68,12 +68,21 @@
 ### :wolf: About Me
 
 ### :owl: Knowledge
-
 <p>
-  <img src="https://img.shields.io/badge/Framework-Flutter-45D1FD?logo=flutter"/>
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter"/>
+  <img src="https://img.shields.io/badge/Framework-Quasar-1976D2?logo=quasar"/>
+  <img src="https://img.shields.io/badge/Framework-VueJS-4FC08D?logo=vue"/>
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?logo=dart"/>
+  <img src="https://img.shields.io/badge/Language-Javascript-F7DF1E?logo=javascript"/>
+  <img src="https://img.shields.io/badge/Language-HTML-E34F26?logo=html5"/>
+  <img src="https://img.shields.io/badge/Language-CSS-1572B6?logo=css3"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python"/>
+  <img src="https://img.shields.io/badge/Language-SQL-CC2927?logo=microsoftsqlserver"/>
+  <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb"/>
 </p>
 
-### :book: Repositories
+###	:dromedary_camel: Repositories
 
 <p>
   <a href="https://github.com/desannemada/Alchenne" rel="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
