@@ -62,7 +62,7 @@
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=desannemada&show_icons=true&theme=radical"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&layout=compact&theme=radical" height="195"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&layout=compact&theme=radical"/> 
 </p>
 
 ### :wolf: About Me
