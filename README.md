@@ -46,6 +46,7 @@
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;</span>
         <h2><b><i>Desannemada</i></b><h3><b>Anne Gonçalves</b><br/><h5>Front-End Developer</h5></h3></h2><br>
+        <a href="https://twitter.com/Martin_Heinz_" rel="Twitter"><img src="http://i.imgur.com/wWzX9uB.png"/></a>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
