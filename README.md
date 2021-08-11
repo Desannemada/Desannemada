@@ -69,4 +69,8 @@
 
 ### Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne)](https://github.com/desannemada/Alchenne)
+<p>
+  <a href="https://github.com/desannemada/Alchenne" rel="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=radical"></a>
+  <a href="https://github.com/desannemada/WeeBooks_v2" rel="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=radical"></a>
+  <a href="https://github.com/desannemada/PI_Walleties" rel="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=radical"></a>
+</p>
