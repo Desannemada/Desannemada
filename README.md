@@ -58,9 +58,9 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=desannemada&show_icons=true&theme=radical"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=desannemada&show_icons=true&theme=radical" width="450"/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&theme=radical" height="195"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desannemada&layout=compact&theme=radical" width="450"/> 
       </td>
     </tr>
   </tbody>
