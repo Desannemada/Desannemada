@@ -117,9 +117,9 @@
 
 <div align="center">
   <br>
-  <img alt="AlchenneRelease" src="https://github.com/Desannemada/Alchenne/raw/master/alchemy/assets/logo.png" width="75">
+  <a href="https://github.com/desannemada/Alchenne" target="_blank" title="Alchenne"><img alt="AlchenneRelease" src="https://github.com/Desannemada/Alchenne/raw/master/alchemy/assets/logo.png" width="75"></a>
   </img>
-  <h3>Alchenne for Skyrim</h3>
+  <h3><a href="https://github.com/desannemada/Alchenne" target="_blank" title="Alchenne">Alchenne for Skyrim</a></h3>
   <a target="_blank" href='https://play.google.com/store/apps/details?id=com.anne.alchemy&hl=pt_BR&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150"/></a>
 </div>
 
