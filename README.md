@@ -102,4 +102,4 @@
   <a href="https://steamcommunity.com/profiles/76561198317261838/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/-Steam-000000?&style=for-the-badge&logo=steam"/></a>
 </p>
 
-[![Spotify](https://spotifygithubreadme-2zcqutq9k-desannemada.vercel.app/api/spotify)](https://open.spotify.com/user/desannemada)
+[![Spotify](https://spotifygithubreadme-2zcqutq9k-desannemada.vercel.app/api/spotify)](https://open.spotify.com/user/lonelyicewolf?si=c7f174a809fa4485)
