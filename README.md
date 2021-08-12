@@ -95,6 +95,6 @@
 ### :eyes: Where To Find Me
 
 <p>
-  <a href="https://www.linkedin.com/in/anne-gon%C3%A7alves-061a751a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anne_goncalves@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anne-gon%C3%A7alves-061a751a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:anne_goncalves@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoftoutlook" /></a>
 </p>
