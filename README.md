@@ -67,39 +67,64 @@
 
 <br>
 <h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoxNiwidyI6MTAwMCwiZnMiOjE2LCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QWJvdXQgTWU/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
-<p><br><br></p>
+<p align="center">
+  <br>
+  <li align="center">
+    <b>Work:</b> Front-End Developer at Voxdata
+  </li>
+  <li align="center">
+    <b>Hobbys:</b> Gameplays - Videogames - Anime - Puzzles
+  </li>
+  <li align="center">
+    <b>Currently:</b> Working with Quasar
+  </li>
+</p>
 
+<br>
 <h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTAwMCwiZnMiOjIwLCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/S25vd2xlZGdl/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
 
 <p align="center">
-  <a href="https://flutter.dev/" rel="Flutter"><img src="https://img.shields.io/badge/-Flutter-141321?logo=flutter&logoColor=D93A7C"/></a>
-  <a href="https://quasar.dev/" rel="Quasar"><img src="https://img.shields.io/badge/-Quasar-141321?logo=quasar&logoColor=D93A7C"/></a>
-  <a href="https://vuejs.org/" rel="VueJS"><img src="https://img.shields.io/badge/-VueJS-141321?logo=vue.js&logoColor=D93A7C"/></a>
-  <a href="https://dart.dev/e" rel="Dart"><img src="https://img.shields.io/badge/-Dart-141321?logo=dart&logoColor=D93A7C"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="Javascript"><img src="https://img.shields.io/badge/-Javascript-141321?logo=javascript&logoColor=D93A7C"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="HTML"><img src="https://img.shields.io/badge/-HTML-141321?logo=html5&logoColor=D93A7C"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="CSS"><img src="https://img.shields.io/badge/-CSS-141321?logo=css3&logoColor=D93A7C"/></a>
-  <a href="https://www.python.org/" rel="Python"><img src="https://img.shields.io/badge/-Python-141321?logo=python&logoColor=D93A7C"/></a>
-  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" rel="SQL"><img src="https://img.shields.io/badge/-SQL-141321?logo=microsoftsqlserver&logoColor=D93A7C"/></a>
-  <a href="https://firebase.google.com/?hl=pt" rel="Firebase"><img src="https://img.shields.io/badge/-Firebase-141321?logo=firebase&logoColor=D93A7C"/></a>
-  <a href="https://www.mongodb.com/pt-br" rel="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-141321?logo=mongodb&logoColor=D93A7C"/></a>
-  <a href="https://www.adobe.com/br/products/xd.html" rel="AdobeXD"><img src="https://img.shields.io/badge/-Adobe_XD-141321?logo=adobexd&logoColor=D93A7C"/></a>
-  <a href="https://www.figma.com/" rel="Figma"><img src="https://img.shields.io/badge/-Figma-141321?logo=figma&logoColor=D93A7C"/></a>
-  <a href="https://powerbi.microsoft.com/pt-br/" rel="PowerBI"><img src="https://img.shields.io/badge/-Power_BI-141321?logo=powerbi&logoColor=D93A7C"/></a>
-  <a href="https://www.postman.com//" rel="Postman"><img src="https://img.shields.io/badge/-Postman-141321?logo=postman&logoColor=D93A7C"/></a>
-  <br><br>
+  <br>
+  <a href="https://flutter.dev/" target="_blank" rel="Flutter"><img src="https://img.shields.io/badge/-Flutter-141321?logo=flutter&logoColor=D93A7C"/></a>
+  <a href="https://quasar.dev/" target="_blank" rel="Quasar"><img src="https://img.shields.io/badge/-Quasar-141321?logo=quasar&logoColor=D93A7C"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="VueJS"><img src="https://img.shields.io/badge/-VueJS-141321?logo=vue.js&logoColor=D93A7C"/></a>
+  <a href="https://dart.dev/e" target="_blank" rel="Dart"><img src="https://img.shields.io/badge/-Dart-141321?logo=dart&logoColor=D93A7C"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="Javascript"><img src="https://img.shields.io/badge/-Javascript-141321?logo=javascript&logoColor=D93A7C"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="HTML"><img src="https://img.shields.io/badge/-HTML-141321?logo=html5&logoColor=D93A7C"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="CSS"><img src="https://img.shields.io/badge/-CSS-141321?logo=css3&logoColor=D93A7C"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="Python"><img src="https://img.shields.io/badge/-Python-141321?logo=python&logoColor=D93A7C"/></a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="SQL"><img src="https://img.shields.io/badge/-SQL-141321?logo=microsoftsqlserver&logoColor=D93A7C"/></a>
+  <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="Firebase"><img src="https://img.shields.io/badge/-Firebase-141321?logo=firebase&logoColor=D93A7C"/></a>
+  <a href="https://www.mongodb.com/pt-br" target="_blank" rel="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-141321?logo=mongodb&logoColor=D93A7C"/></a>
+  <a href="https://www.adobe.com/br/products/xd.html" target="_blank" rel="AdobeXD"><img src="https://img.shields.io/badge/-Adobe_XD-141321?logo=adobexd&logoColor=D93A7C"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="Figma"><img src="https://img.shields.io/badge/-Figma-141321?logo=figma&logoColor=D93A7C"/></a>
+  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="PowerBI"><img src="https://img.shields.io/badge/-Power_BI-141321?logo=powerbi&logoColor=D93A7C"/></a>
+  <a href="https://www.postman.com//" target="_blank" rel="Postman"><img src="https://img.shields.io/badge/-Postman-141321?logo=postman&logoColor=D93A7C"/></a>
 </p>
 
+<br>
 <h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTAwMCwiZnMiOjIwLCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVwb3NpdG9yaWVz/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
 
 <p align="center">
-  <a href="https://github.com/desannemada/Alchenne" title="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
-  <a href="https://github.com/desannemada/WeeBooks_v2" title="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula"></a>
-  <a href="https://github.com/desannemada/PI_Walleties" title="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula"></a>
-  <br><br>
+  <br>
+  <a href="https://github.com/desannemada/Alchenne" target="_blank" title="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
+  <a href="https://github.com/desannemada/WeeBooks_v2" target="_blank" title="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula"></a>
+  <a href="https://github.com/desannemada/PI_Walleties" target="_blank" title="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula"></a>
 </p>
 
-<h2 align="center"><a href="https://www.fontspace.com/category/steampunk"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoxNiwidyI6MTAwMCwiZnMiOjE2LCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hlcmUgVG8gRmluZCBNZQ/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></a></h2>
+<br>
+<h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoxNywidyI6MTAwMCwiZnMiOjE3LCJmZ2MiOiIjRkZGRUZFIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVsZWFzZXM/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
+
+<div align="center">
+  <br>
+  <img alt="AlchenneRelease" src="https://github.com/Desannemada/Alchenne/raw/master/alchemy/assets/logo.png" width="75">
+  </img>
+  <h3>Alchenne for Skyrim</h3>
+  <a target="_blank" href='https://play.google.com/store/apps/details?id=com.anne.alchemy&hl=pt_BR&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150"/></a>
+</div>
+
+<br>
+<h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoxNiwidyI6MTAwMCwiZnMiOjE2LCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hlcmUgVG8gRmluZCBNZQ/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
 
 <p align="center">
   <br>
