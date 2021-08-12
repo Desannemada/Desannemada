@@ -65,26 +65,26 @@
   </tbody>
 </table>
 
-### :wolf: About Me
+### About Me
 
-### :owl: Knowledge
+### Knowledge
 <p>
-  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter"/>
-  <img src="https://img.shields.io/badge/Framework-Quasar-1976D2?logo=quasar"/>
-  <img src="https://img.shields.io/badge/Framework-VueJS-4FC08D?logo=vue"/>
-  <img src="https://img.shields.io/badge/Language-Dart-0175C2?logo=dart"/>
-  <img src="https://img.shields.io/badge/Language-Javascript-F7DF1E?logo=javascript"/>
-  <img src="https://img.shields.io/badge/Language-HTML-E34F26?logo=html5"/>
-  <img src="https://img.shields.io/badge/Language-CSS-1572B6?logo=css3"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python"/>
-  <img src="https://img.shields.io/badge/Language-SQL-CC2927?logo=microsoftsqlserver"/>
-  <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Tool-Adobe_XD-FF61F6?logo=adobexd"/>
-  <img src="https://img.shields.io/badge/Tool-Figma-F24E1E?logo=figma"/>
+  <a href="https://flutter.dev/" rel="Flutter"><img src="https://img.shields.io/badge/-Flutter-141321?logo=flutter&logoColor=D93A7C"/></a>
+  <a href="https://quasar.dev/" rel="Quasar"><img src="https://img.shields.io/badge/-Quasar-141321?logo=quasar&logoColor=D93A7C"/></a>
+  <a href="https://vuejs.org/" rel="VueJS"><img src="https://img.shields.io/badge/-VueJS-141321?logo=vue.js&logoColor=D93A7C"/></a>
+  <a href="https://dart.dev/e" rel="Dart"><img src="https://img.shields.io/badge/-Dart-141321?logo=dart&logoColor=D93A7C"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="Javascript"><img src="https://img.shields.io/badge/-Javascript-141321?logo=javascript&logoColor=D93A7C"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="HTML"><img src="https://img.shields.io/badge/-HTML-141321?logo=html5&logoColor=D93A7C"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="CSS"><img src="https://img.shields.io/badge/-CSS-141321?logo=css3&logoColor=D93A7C"/></a>
+  <a href="https://www.python.org/" rel="Python"><img src="https://img.shields.io/badge/-Python-141321?logo=python&logoColor=D93A7C"/></a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" rel="SQL"><img src="https://img.shields.io/badge/-SQL-141321?logo=microsoftsqlserver&logoColor=D93A7C"/></a>
+  <a href="https://firebase.google.com/?hl=pt" rel="Firebase"><img src="https://img.shields.io/badge/-Firebase-141321?logo=firebase&logoColor=D93A7C"/></a>
+  <a href="https://www.mongodb.com/pt-br" rel="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-141321?logo=mongodb&logoColor=D93A7C"/></a>
+  <a href="https://www.adobe.com/br/products/xd.html" rel="AdobeXD"><img src="https://img.shields.io/badge/-Adobe_XD-141321?logo=adobexd&logoColor=D93A7C"/></a>
+  <a href="https://www.figma.com/" rel="Figma"><img src="https://img.shields.io/badge/-Figma-141321?logo=figma&logoColor=D93A7C"/></a>
 </p>
 
-###	:dromedary_camel: Repositories
+###	Repositories
 
 <p>
   <a href="https://github.com/desannemada/Alchenne" rel="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
@@ -92,7 +92,7 @@
   <a href="https://github.com/desannemada/PI_Walleties" rel="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula"></a>
 </p>
 
-### :eyes: Where To Find Me
+### Where To Find Me
 
 <p>
   <a href="https://www.linkedin.com/in/anne-gon%C3%A7alves-061a751a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
