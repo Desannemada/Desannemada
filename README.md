@@ -65,10 +65,13 @@
   </tbody>
 </table>
 
-### About Me
+<br>
+<h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoxNiwidyI6MTAwMCwiZnMiOjE2LCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QWJvdXQgTWU/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
+<p><br><br></p>
 
-### Knowledge
-<p>
+<h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTAwMCwiZnMiOjIwLCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/S25vd2xlZGdl/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
+
+<p align="center">
   <a href="https://flutter.dev/" rel="Flutter"><img src="https://img.shields.io/badge/-Flutter-141321?logo=flutter&logoColor=D93A7C"/></a>
   <a href="https://quasar.dev/" rel="Quasar"><img src="https://img.shields.io/badge/-Quasar-141321?logo=quasar&logoColor=D93A7C"/></a>
   <a href="https://vuejs.org/" rel="VueJS"><img src="https://img.shields.io/badge/-VueJS-141321?logo=vue.js&logoColor=D93A7C"/></a>
@@ -84,26 +87,28 @@
   <a href="https://www.figma.com/" rel="Figma"><img src="https://img.shields.io/badge/-Figma-141321?logo=figma&logoColor=D93A7C"/></a>
   <a href="https://powerbi.microsoft.com/pt-br/" rel="PowerBI"><img src="https://img.shields.io/badge/-Power_BI-141321?logo=powerbi&logoColor=D93A7C"/></a>
   <a href="https://www.postman.com//" rel="Postman"><img src="https://img.shields.io/badge/-Postman-141321?logo=postman&logoColor=D93A7C"/></a>
+  <br><br>
 </p>
 
-###	Repositories
+<h2 align="center"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTAwMCwiZnMiOjIwLCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVwb3NpdG9yaWVz/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></h2>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/desannemada/Alchenne" title="Alchenne"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula&border_radius=10"></a>
-  <a align="right" href="https://github.com/desannemada/WeeBooks_v2" title="WeeBooks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/desannemada/PI_Walleties" title="Walleties"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula&border_radius=10"></a>
-</div>
-<br><br><br><br><br>
+<p align="center">
+  <a href="https://github.com/desannemada/Alchenne" title="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
+  <a href="https://github.com/desannemada/WeeBooks_v2" title="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula"></a>
+  <a href="https://github.com/desannemada/PI_Walleties" title="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula"></a>
+  <br><br>
+</p>
 
-### Where To Find Me
+<h2 align="center"><a href="https://www.fontspace.com/category/steampunk"><img src="https://see.fontimg.com/api/renderfont4/lzVX/eyJyIjoiZnMiLCJoIjoxNiwidyI6MTAwMCwiZnMiOjE2LCJmZ2MiOiIjRkZGREZEIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hlcmUgVG8gRmluZCBNZQ/fha-modernized-ideal-classicnc.png" alt="Steampunk fonts"></a></h2>
 
-<p>
+<p align="center">
+  <br>
   <a href="https://www.linkedin.com/in/anne-gon%C3%A7alves-061a751a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:anne_goncalves@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoftoutlook"/></a>
   <a href="https://steamcommunity.com/profiles/76561198317261838/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/-Steam-000000?&style=for-the-badge&logo=steam"/></a>
+  <img alt="Discord" src="https://img.shields.io/static/v1?&label=&message=anne%234789&style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/>
 </p>
 
-[![Spotify](https://spotifygithubreadme-2zcqutq9k-desannemada.vercel.app/api/spotify)](https://open.spotify.com/user/lonelyicewolf?si=c7f174a809fa4485)
+<p align="center">
+  <a href="https://open.spotify.com/user/lonelyicewolf?si=c7f174a809fa4485" target="_blank"><img alt="Spotify" src="https://spotifygithubreadme-2zcqutq9k-desannemada.vercel.app/api/spotify"/></a>
+</p>
