@@ -88,11 +88,15 @@
 
 ###	Repositories
 
-<p>
-  <a href="https://github.com/desannemada/Alchenne" rel="Alchenne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula"></a>
-  <a href="https://github.com/desannemada/WeeBooks_v2" rel="WeeBooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula"></a>
-  <a href="https://github.com/desannemada/PI_Walleties" rel="Walleties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula"></a>
-</p>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/desannemada/Alchenne" title="Alchenne"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=Alchenne&theme=dracula&border_radius=10"></a>
+  <a align="right" href="https://github.com/desannemada/WeeBooks_v2" title="WeeBooks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=WeeBooks_v2&theme=dracula&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/desannemada/PI_Walleties" title="Walleties"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=desannemada&repo=PI_Walleties&theme=dracula&border_radius=10"></a>
+</div>
+<br><br><br><br><br>
 
 ### Where To Find Me
 
