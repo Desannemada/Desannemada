@@ -97,6 +97,9 @@
 ### Where To Find Me
 
 <p>
-  <a href="https://www.linkedin.com/in/anne-gon%C3%A7alves-061a751a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:anne_goncalves@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoftoutlook" /></a>
+  <a href="https://www.linkedin.com/in/anne-gon%C3%A7alves-061a751a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:anne_goncalves@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoftoutlook"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198317261838/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/-Steam-000000?&style=for-the-badge&logo=steam"/></a>
 </p>
+
+[![Spotify](https://spotifygithubreadme-2zcqutq9k-desannemada.vercel.app/api/spotify)](https://open.spotify.com/user/desannemada)
