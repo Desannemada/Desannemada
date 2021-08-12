@@ -81,7 +81,8 @@
   <a href="https://firebase.google.com/?hl=pt" rel="Firebase"><img src="https://img.shields.io/badge/-Firebase-141321?logo=firebase&logoColor=D93A7C"/></a>
   <a href="https://www.mongodb.com/pt-br" rel="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-141321?logo=mongodb&logoColor=D93A7C"/></a>
   <a href="https://www.adobe.com/br/products/xd.html" rel="AdobeXD"><img src="https://img.shields.io/badge/-Adobe_XD-141321?logo=adobexd&logoColor=D93A7C"/></a>
-  <a href="https://www.figma.com/" rel="Figma"><img src="https://img.shields.io/badge/-Figma-141321?logo=figma&logoColor=D93A7C"/></a>
+  <a href="https://www.figma.com/" rel="Figma"><img src="https://img.shields.io/badge/-Figma-F2C811?logo=figma&logoColor=D93A7C"/></a>
+  <a href="https://powerbi.microsoft.com/pt-br/" rel="PowerBI"><img src="https://img.shields.io/badge/-Power_BI-141321?logo=powerbi&logoColor=D93A7C"/></a>
 </p>
 
 ###	Repositories
