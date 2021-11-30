@@ -100,6 +100,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="Figma"><img src="https://img.shields.io/badge/-Figma-141321?logo=figma&logoColor=D93A7C"/></a>
   <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="PowerBI"><img src="https://img.shields.io/badge/-Power_BI-141321?logo=powerbi&logoColor=D93A7C"/></a>
   <a href="https://www.postman.com//" target="_blank" rel="Postman"><img src="https://img.shields.io/badge/-Postman-141321?logo=postman&logoColor=D93A7C"/></a>
+  <a href="https://pt-br.reactjs.org/" target="_blank" rel="React"><img src="https://img.shields.io/badge/-React-141321?logo=react&logoColor=D93A7C"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="React Native"><img src="https://img.shields.io/badge/-React_Native-141321?logo=react&logoColor=D93A7C"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel=".NET"><img src="https://img.shields.io/badge/-.NET-141321?logo=.net&logoColor=D93A7C"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="C#"><img src="https://img.shields.io/badge/-C_Sharp-141321?logo=csharp&logoColor=D93A7C"/></a>
 </p>
 
 <br>
