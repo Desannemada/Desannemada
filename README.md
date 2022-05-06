@@ -102,8 +102,10 @@
   <a href="https://www.postman.com//" target="_blank" rel="Postman"><img src="https://img.shields.io/badge/-Postman-141321?logo=postman&logoColor=D93A7C"/></a>
   <a href="https://pt-br.reactjs.org/" target="_blank" rel="React"><img src="https://img.shields.io/badge/-React-141321?logo=react&logoColor=D93A7C"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="React Native"><img src="https://img.shields.io/badge/-React_Native-141321?logo=react&logoColor=D93A7C"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel=".NET"><img src="https://img.shields.io/badge/-.NET-141321?logo=.net&logoColor=D93A7C"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="C#"><img src="https://img.shields.io/badge/-C_Sharp-141321?logo=csharp&logoColor=D93A7C"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel=".NET"><img src="https://img.shields.io/badge/-.NET-141321?logo=.net&logoColor=D93A7C"/></a>
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="C#"><img src="https://img.shields.io/badge/-C_Sharp-141321?logo=csharp&logoColor=D93A7C"/></a>
+  <a href="https://angular.io/" target="_blank" rel="Angular"><img src="https://img.shields.io/badge/-Angular-141321?logo=angular&logoColor=D93A7C"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="Typescript"><img src="https://img.shields.io/badge/-Typescript-141321?logo=typescript&logoColor=D93A7C"/></a>
 </p>
 
 <br>
